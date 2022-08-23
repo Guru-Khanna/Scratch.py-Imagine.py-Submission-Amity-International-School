@@ -1,1 +1,14 @@
-# Scratch.py-Imagine.py-Submission-Amity-International-School
+# Scratch.py Imagine.py Submission Amity International School
+Submission for scratch.py event by Amity international school Sector 46 Gurugram
+Members:
+       -Guru Khanna (7th)
+       -Prisha Bhatia (8th)
+       
+The is a game called Terrain Traversal. It is a fun game and it can be played using mouse and keyboard. 
+The game is about exploring the sea with a submarine. Player has to explore underwater. He will be visualizing sea Fauna like fishes and crabs etc.
+User has to press space bar to count these flora. Each Flora adds to the score.
+Game also has hurdles like rocks, if the player is hit by hurdle he looses points.
+At the end,game shows the exploration report regaring the Fauna in this sea world.
+Controls:
+    WASD Keys and arrow keys- For movement of the submarine
+    Space- To explore fishes
